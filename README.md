@@ -27,13 +27,11 @@
 npm install 
 
 
-<<<<<<< HEAD
+
 ## **Usage**<br>
 Creating a HTML file to manage & stay on top of all your employees. 
-
-=======
 * In the `Develop` folder, there is a `package.json`, so make sure to `npm install`.
->>>>>>> ef7efa6233bf71340f58b5c9608f0a0d5746c77f
+
 
 ## **License**<br>
 mit
